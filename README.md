@@ -1,2 +1,2 @@
-# Template
- Multiple pages responsive template created using Html/Css, Bootstrap. Jquery, Javascript
+This project involves crafting a fully responsive web template using HTML, CSS, Bootstrap, and jQuery to ensure optimal viewing experiences across all devices.
+
